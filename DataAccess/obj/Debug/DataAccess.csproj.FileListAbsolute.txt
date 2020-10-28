@@ -1,0 +1,9 @@
+E:\2020\.NET\Todo_List\DataAccess\bin\Debug\DataAccess.dll
+E:\2020\.NET\Todo_List\DataAccess\bin\Debug\DataAccess.pdb
+E:\2020\.NET\Todo_List\DataAccess\bin\Debug\Domain.dll
+E:\2020\.NET\Todo_List\DataAccess\bin\Debug\Domain.pdb
+E:\2020\.NET\Todo_List\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+E:\2020\.NET\Todo_List\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+E:\2020\.NET\Todo_List\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+E:\2020\.NET\Todo_List\DataAccess\obj\Debug\DataAccess.dll
+E:\2020\.NET\Todo_List\DataAccess\obj\Debug\DataAccess.pdb

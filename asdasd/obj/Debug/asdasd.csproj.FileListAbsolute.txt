@@ -1,0 +1,4 @@
+E:\2020\.NET\Todo_List\asdasd\obj\Debug\asdasd.csprojAssemblyReference.cache
+E:\2020\.NET\Todo_List\asdasd\obj\Debug\MainWindow.g.cs
+E:\2020\.NET\Todo_List\asdasd\obj\Debug\asdasd_MarkupCompile.cache
+E:\2020\.NET\Todo_List\asdasd\obj\Debug\asdasd_MarkupCompile.lref

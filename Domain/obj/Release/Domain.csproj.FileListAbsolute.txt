@@ -1,0 +1,12 @@
+E:\2020\.NET\Todo_List\Domain\bin\Release\Domain.dll
+E:\2020\.NET\Todo_List\Domain\bin\Release\Domain.pdb
+E:\2020\.NET\Todo_List\Domain\obj\Release\Domain.csprojAssemblyReference.cache
+E:\2020\.NET\Todo_List\Domain\obj\Release\Domain.csproj.CoreCompileInputs.cache
+E:\2020\.NET\Todo_List\Domain\obj\Release\Domain.dll
+E:\2020\.NET\Todo_List\Domain\obj\Release\Domain.pdb
+E:\2020\.NET\Notes\Domain\bin\Release\Domain.dll
+E:\2020\.NET\Notes\Domain\bin\Release\Domain.pdb
+E:\2020\.NET\Notes\Domain\obj\Release\Domain.csprojAssemblyReference.cache
+E:\2020\.NET\Notes\Domain\obj\Release\Domain.csproj.CoreCompileInputs.cache
+E:\2020\.NET\Notes\Domain\obj\Release\Domain.dll
+E:\2020\.NET\Notes\Domain\obj\Release\Domain.pdb

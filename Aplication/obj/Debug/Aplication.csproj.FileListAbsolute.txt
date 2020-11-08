@@ -9,3 +9,14 @@ E:\2020\.NET\Todo_List\Aplication\obj\Debug\Aplication.csproj.CoreCompileInputs.
 E:\2020\.NET\Todo_List\Aplication\obj\Debug\Aplication.csproj.CopyComplete
 E:\2020\.NET\Todo_List\Aplication\obj\Debug\Aplication.dll
 E:\2020\.NET\Todo_List\Aplication\obj\Debug\Aplication.pdb
+E:\2020\.NET\Notes\Aplication\bin\Debug\Aplication.dll
+E:\2020\.NET\Notes\Aplication\bin\Debug\Aplication.pdb
+E:\2020\.NET\Notes\Aplication\bin\Debug\DataAccess.dll
+E:\2020\.NET\Notes\Aplication\bin\Debug\Domain.dll
+E:\2020\.NET\Notes\Aplication\bin\Debug\DataAccess.pdb
+E:\2020\.NET\Notes\Aplication\bin\Debug\Domain.pdb
+E:\2020\.NET\Notes\Aplication\obj\Debug\Aplication.csprojAssemblyReference.cache
+E:\2020\.NET\Notes\Aplication\obj\Debug\Aplication.csproj.CoreCompileInputs.cache
+E:\2020\.NET\Notes\Aplication\obj\Debug\Aplication.csproj.CopyComplete
+E:\2020\.NET\Notes\Aplication\obj\Debug\Aplication.dll
+E:\2020\.NET\Notes\Aplication\obj\Debug\Aplication.pdb

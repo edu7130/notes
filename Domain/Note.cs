@@ -8,23 +8,21 @@ namespace Domain
 {
     public class Note
     {
-        int id;
-        string what;
-        bool done;
+        public int Id { get; set; }
+        public string Title { get; set; }
+        public string Body { get; set; }
+        public DateTime Created { get; set; }
 
         public Note()
         {
         }
 
-        public Note(int id, string what, bool done)
+        public Note(int id, string title, string body, DateTime created)
         {
-            this.id = id;
-            this.what = what;
-            this.done = done;
+            this.Id = id;
+            this.Title = title;
+            this.Body = body;
+            this.Created = created;
         }
-
-        public int Id { get => id; set => id = value; }
-        public string What { get => what; set => what = value; }
-        public bool Done { get => done; set => done = value; }
     }
 }

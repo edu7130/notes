@@ -14,7 +14,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace Todo_List.Resources
+namespace Notes.Resources
 {
     public partial class TopBar : UserControl
     {
